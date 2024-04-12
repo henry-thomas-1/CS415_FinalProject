@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Henry/OneDrive/Desktop/CS415_Proj/HorrorEngine/Content/HorrorEngine/Maps/Overview.umap",
+				"C:/Users/Henry/OneDrive/Desktop/CS415_Proj/HorrorEngine/Content/HorrorEngine/Maps/Stranded.umap",
+				"C:/Users/Henry/OneDrive/Desktop/CS415_Proj/HorrorEngine/Content/HorrorEngine/HE_VideoSettings.uasset",
+				"C:/Users/Henry/OneDrive/Desktop/CS415_Proj/HorrorEngine/Content/HorrorEngine/Blueprints/Core/HE_SaveGame.uasset",
+				"C:/Users/Henry/OneDrive/Desktop/CS415_Proj/HorrorEngine/Content/HorrorEngine/Blueprints/Core/HorrorEngineFunctions.uasset",
+				"C:/Users/Henry/OneDrive/Desktop/CS415_Proj/HorrorEngine/Content/HorrorEngine/Blueprints/Widgets/Menu/Settings.uasset"
+			]
+		}
+	]
+}
