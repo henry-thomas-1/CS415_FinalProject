@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+				"C:/Users/trian/Desktop/CS415_FinalProject/HorrorEngine/Content/Stranded_content/Maps/Main_Level.umap",
+				"C:/Users/trian/Desktop/CS415_FinalProject/HorrorEngine/Content/Stranded_content/Characters/Stalker_Zombie/BP_Zombie.uasset",
+				"C:/Users/trian/Desktop/CS415_FinalProject/HorrorEngine/Content/Stranded_content/Characters/Stalker_Zombie/Animations/Zambie_animations.uasset",
 				"C:/Users/Henry/OneDrive/Desktop/CS415_FinalProject/HorrorEngine/Content/Stranded_content/Maps/Main_Level.umap",
 				"C:/Users/Henry/OneDrive/Desktop/CS415_FinalProject/HorrorEngine/Content/VehicleVarietyPack/Materials/Pickup/M_Pickup_Body.uasset",
 				"C:/Users/Henry/OneDrive/Desktop/CS415_FinalProject/HorrorEngine/Content/Stranded_content/Items/BluePrints/Gasoline.uasset",
@@ -32,7 +36,6 @@
 				"C:/Users/Henry/OneDrive/Desktop/CS415_FinalProject/HorrorEngine/Content/Stranded_content/widgets/EndScreen.uasset",
 				"C:/Users/Henry/OneDrive/Desktop/CS415_FinalProject/HorrorEngine/Content/Stranded_content/Items/textures/you_escaped.uasset",
 				"C:/Users/Henry/OneDrive/Desktop/CS415_FinalProject/HorrorEngine/Content/Stranded_content/Items/BluePrints/BlockingVolume.uasset",
-				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
 				"C:/Users/Henry/OneDrive/Desktop/CS415_FinalProject/HorrorEngine/Content/HorrorEngine/Blueprints/Core/HorrorEngineCharacter.uasset",
 				"C:/Users/Henry/OneDrive/Desktop/CS415_FinalProject/HorrorEngine/Content/HorrorEngine/HorrorEngine.uasset",
 				"C:/Users/Henry/OneDrive/Desktop/CS415_FinalProject/HorrorEngine/Content/HorrorEngine/Blueprints/Core/HorrorEngineFunctions.uasset",
